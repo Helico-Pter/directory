@@ -1,3 +1,3 @@
-module github.com/Helico-Pter/directory
+module example.com/directory
 
 go 1.16
